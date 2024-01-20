@@ -1,0 +1,185 @@
+*{
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+}
+.main{
+    position: absolute;
+    left: 65px;
+    top: 84px;
+    height: 100vh;
+    width: 100%;
+    background-color: #08172c;
+    overflow: auto;
+    padding: 2rem;
+}
+
+nav {
+    height: 4rem;
+    width: 100%;
+    background-color: #000e20;
+    color: #D21312;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+}
+
+nav img {
+    height: 40px;
+    width: auto;
+    margin: 0 1rem;
+}
+nav a {
+    text-decoration: none;
+    color: #D21312;
+    font-weight: bold;
+    margin: 0 1rem;
+}
+
+.subscribe-button {
+    background-color: #ED2B2A;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0 1rem;
+}
+
+
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+}
+
+.sidebar{
+    height: 800px;
+    position: absolute;
+    top: 84px;
+    display: flex;
+    overflow: hidden;
+}
+.sidebar-icons {
+    width: 65px;
+    background-color: #000e20;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sidebar-icons i {
+    color: #D21312;
+    font-size: 1.3rem;
+    margin: 1rem 1.5rem;
+}
+
+.sidebar-content {
+    width: 140px;
+    background-color: #000e20;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+.sidebar-content a {
+    color: #D21312;
+    font-size: 1.3rem;
+    margin: 0.65rem;
+    text-decoration: none;
+}
+
+.sidebar-icons:hover ~ .sidebar-content {
+    opacity: 1;
+}
+.sidebar-icons:hover{
+    box-shadow: 300px 0 100px rgba(0, 0, 0, 0.227);
+}
+
+.movie-card {
+    width: 300px;
+    margin: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+.movie-card img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s ease-in-out;
+}
+
+.movie-card:hover img {
+    transform: scale(1.1);
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 0.5s ease-in-out;
+}
+.overlay .play-button{
+    height: 2em;
+    padding: 0 2rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    margin-top: 2rem;
+    background-color: #ED2B2A;
+}
+
+.movie-card:hover .overlay {
+    opacity: 1;
+}
+
+.overlay h2 {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.overlay p {
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    max-width: 80%;
+}
+
+.main h2{
+    color: #D21312;
+    font-size: 1.5rem;
+}
+
+.trending {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.topPicks{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.recommend {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+
