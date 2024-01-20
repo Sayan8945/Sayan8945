@@ -58,7 +58,7 @@ nav a {
 }
 
 .sidebar{
-    height: 800px;
+    height: 100vh;
     position: absolute;
     top: 84px;
     display: flex;
