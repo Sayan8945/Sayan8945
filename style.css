@@ -178,7 +178,39 @@ nav a {
     display: flex;
     flex-wrap: wrap;
 }
-
+@media (max-width: 391px) {
+    nav img{
+        width: 110px;
+        margin: 2px;
+    }
+    nav a {
+        position: relative;
+        left: -130px;
+        margin-right: 0px;
+    }
+    nav button {
+        
+        margin-left: 0px;
+        padding: 8px;
+        position: relative;
+        left: -130px;
+    }
+    #sign-up{
+        display: none;
+    }
+    .movie-card {
+        width: 140px;
+        margin: 5px;
+    }
+    .sidebar-icons{
+        width: 40px;
+    }
+    .sidebar-icons i{
+        margin-top: 32px;
+    }
+    .main{
+        left: 40px;
+    }
 
 
 
