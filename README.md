@@ -60,10 +60,8 @@
 ## 🏆 Achievements
 
 - 🥇 **Winner**, Codeclock Talentscape – CGEC Coding Hackathon (GDSC)
-- 🥈 Placed **12th out of 500+** in Coding Ninjas Code to Glory
-- 🏅 **Finalist**, Smart India Hackathon 2023
 - 🙌 **JWoC (JGEC Winter of Code) Season 6** mentee & contributor
-- 💻 Solved **300+ DSA problems** (LeetCode, Codeforces, GFG)
+- 💻 Solved **150+ DSA problems** (LeetCode, Codeforces, GFG)
 - 🙋‍♂️ Organized **DevDraw** & **Tech-O-Nicks'23** workshops for 35+ participants
 
 ---
@@ -82,7 +80,7 @@
   </a>
 </p>
 
-- 📧 **Email:** dasayan948@gmail.com
+- 📧 **Email:** sayanpub2020@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/sayansarkar8945](https://www.linkedin.com/in/sayansarkar8945/)
 - 🌐 **Portfolio:** [my-portfolio-delta-blue-80.vercel.app](https://my-portfolio-delta-blue-80.vercel.app/)
 
