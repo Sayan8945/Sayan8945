@@ -47,9 +47,9 @@
 ## 🏆 Achievements
 
 - 🥇 **Winner**, Codeclock Talentscape – CGEC Coding Hackathon (GDSC)
-- 🙌 **JWoC (JGEC Winter of Code) Season 6** mentee & contributor
+- 🙌 Unified mentor MERN dev intern
 - 💻 Solved **150+ DSA problems** (LeetCode, Codeforces, GFG)
-- 🙋‍♂️ Organized **DevDraw** & **Tech-O-Nicks'23** workshops for 35+ participants
+- 🙋‍♂️ Organized **DevDraw** & **Tech-O-Nicks'24** workshops for 35+ participants
 
 ---
 
