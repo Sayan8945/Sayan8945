@@ -46,7 +46,6 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Winner**, Codeclock Talentscape – CGEC Coding Hackathon (GDSC)
 - 🙌 Unified mentor MERN dev intern
 - 💻 Solved **150+ DSA problems** (LeetCode, Codeforces, GFG)
 - 🙋‍♂️ Organized **DevDraw** & **Tech-O-Nicks'24** workshops for 35+ participants
